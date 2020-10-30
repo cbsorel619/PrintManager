@@ -1,4 +1,9 @@
-div .container {
+ #sales-ticker {
     border: 1px solid black;
-    margin-top: 5em;
+    margin-top: 2em;
+}
+
+#workspace {
+    border: 1px solid black;
+    margin-top: 2em;
 }
